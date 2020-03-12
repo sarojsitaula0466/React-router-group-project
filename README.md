@@ -1,2 +1,2 @@
 # React-router-group-project
-Saroj, Ieva, Osun, Artur
+Saroj, Ieva, Usun, Artur
